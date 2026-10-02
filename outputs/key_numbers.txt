@@ -1,0 +1,12 @@
+Girls soccer ARR, primary: 0.55 (0.21 to 0.80) pts; NNT 181 (126-475)
+Girls soccer ARR, non-contact only: 0.34 (0.13 to 0.51) pts; NNT 290 (194-762)
+Girls soccer ARR, non-contact only + half of trial-level adherence: 0.17 (0.07 to 0.26) pts; NNT 580 (389-1525)
+Girls soccer turf excess (upper bound): 0.20 (0.06 to 0.36) pts
+Warm/turf ratio primary 2.77x, P=0.971
+Warm/turf ratio non-contact 1.73x, P=0.874
+Warm/turf ratio non-contact + half trial adherence 0.86x, P=0.361
+Ranking (all tears, trial-level adherence): ['Girls soccer', 'Girls basketball', 'Boys football', 'Girls lacrosse', 'Boys lacrosse', 'Boys soccer']
+Ranking (non-contact, half of trial-level adherence): ['Girls soccer', 'Girls basketball', 'Boys football', 'Girls lacrosse', 'Boys lacrosse', 'Boys soccer']
+Range of girls-soccer ARR across full grid: 0.17 to 0.79
+Range of boys-soccer ARR across full grid: 0.04 to 0.19
+P(girls soccer ARR > girls basketball ARR): shared effect 0.964; independent per-sport effect 0.731

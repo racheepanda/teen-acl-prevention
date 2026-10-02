@@ -1,0 +1,7 @@
+assumption,value,basis
+roster_soccer,22,Author assumption: typical US high-school varsity soccer roster. Not sourced; edit to your context.
+roster_basketball,13,Author assumption: typical US high-school varsity basketball roster. Not sourced.
+roster_football,50,Author assumption: typical US high-school varsity football roster. Not sourced.
+roster_lacrosse,25,Author assumption: typical US high-school varsity lacrosse roster. Not sourced.
+adherence_levels,"1.0, 0.75, 0.5",Adherence RELATIVE TO TRIAL LEVELS (1.0 = same adherence as in the trials; trial RRs already include trial non-adherence). Effective RR = 1 - a*(1 - RR). Illustrative; not sourced.
+seasons,4,High-school career length
